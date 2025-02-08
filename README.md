@@ -1,0 +1,2 @@
+# git-pithon
+PITHON darslar
